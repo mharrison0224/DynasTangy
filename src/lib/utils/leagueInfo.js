@@ -7,12 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the Dynasty Fantasy Football League. The world’s most tangy fantasy football experience.</p>
+  <p>Founded in 2012, this league by a small group of friends on the shitty ESPN app. It has gone through a multitude of changes. Starting off as the Appleton Fantasy Football League. It was a simple 8 man league and through the years its ramped up to a 12 man league. During the 2016-2017 season, we created a second league to weed out those who were not fully invested. The following year we made the switch to sleeper bot (the world’s greatest fantasy platform).</p>
+  <p>In 2019 the Appleton Fantasy Football league changed its name to Dynastangy and moved into a full-fledged Dynasty League. There were many naysayers saying it wouldn’t last, we wanted to prove them wrong. </p>
+  <p>After two years and only 1 rookie draft, the Dynasty league was changed back to a redraft league after Ben decided to blow up the league causing a rift in the community that was unable to be resolved. This ended up leaving those who were tanking such as James or Ryan to get fucked. The Naysayers were proven right. RIP Dynasty.</p>
+  <p>Previous owners such as MitchyIce, Furious Hog Snatchers, or KStrong may be gone but they will never be forgotten. </p>
+  <p>Only one man may walk away with victory and $180 dollars.</p>
 `;
 
 /*   STEP 3   */
